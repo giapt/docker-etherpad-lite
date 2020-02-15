@@ -1,4 +1,4 @@
-FROM node:8.16-jessie
+FROM node:10.19.0-jessie
 MAINTAINER Tran Giap <trangiap308@gmail.com>
 
 ENV ETHERPAD_VERSION 1.8.0
